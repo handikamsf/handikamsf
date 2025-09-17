@@ -6,8 +6,11 @@ As a graduate of SMK Negeri 12 Surabaya, a vocational school for film production
 ##### Skills
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 
+##### Connect With Me
+![https://www.instagram.com/handikamsf/](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 ##### My Github Stats
-![Handika's GitHub stats](https://github-readme-stats.vercel.app/api?username=handikamsf)
+[![Handika's GitHub stats](https://github-readme-stats.vercel.app/api?username=handikamsf)](https://github.com/handikamsf/github-readme-stats)
 
 <!--
 **handikamsf/handikamsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
