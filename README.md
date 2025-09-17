@@ -1,5 +1,5 @@
 ## Hello World! I'm Handika 🙋‍♂️
-![Pokemon](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20wM2JtZ3lnZ3hvNXR4N2VvZDczam45NWxmN2pkMWh3a3lqazM4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9qMIBqOJrtvfW/giphy.gif)
+![Pokemon](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20wM2JtZ3lnZ3hvNXR4N2VvZDczam45NWxmN2pkMWh3a3lqazM4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qNfYSvQFtXeH6/giphy.gif)
 
 As a graduate of SMK Negeri 12 Surabaya, a vocational school for film production, I possess skills in all phases of filmmaking, from pre-production to post-production. I am adept in scriptwriting, video editing, sound management, and understand the basics of production management. Currently, I am studying Data Science at UPN "Veteran" Jawa Timur.
 
