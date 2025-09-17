@@ -1,8 +1,12 @@
-## Hello World! I'm Handika 🙋‍♂️
+## Hello World! I'm Handika🙋‍♂️
 ![Pokemon](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NpZHM1N2xnejF2ZTBraGUwbW53Y3NpNDVzNXFvMnNndjJxY3IxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fjgqYjVkzfQ9a/giphy.gif)
 
 As a graduate of SMK Negeri 12 Surabaya, a vocational school for film production, I possess skills in all phases of filmmaking, from pre-production to post-production. I am adept in scriptwriting, video editing, sound management, and understand the basics of production management. Currently, I am studying Data Science at UPN "Veteran" Jawa Timur.
 
+##### Skills
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 <!--
 **handikamsf/handikamsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
