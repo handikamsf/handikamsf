@@ -1,10 +1,18 @@
-<h2 align="left">Hi 👋! My name is Handika</h2>
-
-###
+<h1 align="left">Hi 👋! I'm Handika (Muhammad Handika Maulana Sifa)</h1>
+<h3 align="left">Data Science Undergraduate | Machine Learning Enthusiast | Data Storyteller</h3>
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NpZHM1N2xnejF2ZTBraGUwbW53Y3NpNDVzNXFvMnNndjJxY3IxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fjgqYjVkzfQ9a/giphy.gif"  />
 
-###
+I am a 4th-semester Data Science student who is deeply passionate about transforming raw, complex data into meaningful and actionable insights. I bridge the gap between heavy technical analysis (Machine Learning & Big Data) and practical business intelligence.
+
+- 🔭 **Currently working on:** Deep Learning architectures (CNNs) for image classification and interactive geospatial dashboards.
+- 🌱 **Currently learning:** Advanced Big Data infrastructure (Apache Spark, Hive) and Cloud Deployments (AWS).
+- 📊 **My core focus:** Exploratory Data Analysis (EDA), Predictive Modeling, and designing intuitive Streamlit/Looker Studio dashboards.
+- ⚡ **Fun Fact:** I am meticulously systematic—I log my daily cash flow on a spreadsheet! When I'm away from my keyboard, you can find me diving deep into *Stranger Things* lore, geeking out over D&D rules, making DIY pipe-cleaner crafts, or collecting anything colored blue. 
+
+<br>
+
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -30,9 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+<br>
 
-##### Connect With Me
+### 📬 Connect With Me
+
 <div align="left">
   <a href="https://www.linkedin.com/in/handikamsf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -45,8 +54,9 @@
   </a>
 </div>
 
-##### My Github Stats
-###
+<br>
+
+### 📈 My GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/handikamsf/handikamsf/output/pacman-contribution-graph-dark.svg">
@@ -54,4 +64,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/handikamsf/handikamsf/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+<p align="center"><i>"Data is the new oil, but without refinement, it's just a puddle."</i></p>
