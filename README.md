@@ -30,7 +30,7 @@ Here are some of my proudest works. Click on the project names to view the repos
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -50,16 +50,20 @@ Here are some of my proudest works. Click on the project names to view the repos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+</p>
 
 <br>
 
 ### 📈 GitHub Analytics
 
-<div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=handikamsf&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777777" alt="Handika's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handikamsf&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=777777" alt="Top Languages" />
-</div>
+<p align="left">
+  <a href="https://github.com/handikamsf">
+    <img src="https://github-readme-stats.vercel.app/api?username=handikamsf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Handika's GitHub stats" />
+  </a>
+  <a href="https://github.com/handikamsf">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handikamsf&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  </a>
+</p>
 
 <br>
 
@@ -75,7 +79,7 @@ Here are some of my proudest works. Click on the project names to view the repos
 
 ### 📬 Connect With Me
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/handikamsf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -85,7 +89,7 @@ Here are some of my proudest works. Click on the project names to view the repos
   <a href="https://medium.com/@handikamsf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-</div>
+</p>
 
 ---
 <p align="center"><i>"Data is the new oil, but without refinement, it's just a puddle."</i></p>
