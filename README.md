@@ -1,4 +1,7 @@
 <h1 align="left">Hi 👋! I'm Handika (Muhammad Handika Maulana Sifa)</h1>
+<p align="left">
+  <img src="https://api.visitorbadge.io/api/visitors?path=handikamsf&countColor=%230077B5&style=flat" alt="Visitors" />
+</p>
 <h3 align="left">Data Science Undergraduate | Machine Learning Enthusiast | Data Storyteller</h3>
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NpZHM1N2xnejF2ZTBraGUwbW53Y3NpNDVzNXFvMnNndjJxY3IxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fjgqYjVkzfQ9a/giphy.gif"  />
@@ -9,6 +12,19 @@ I am a 4th-semester Data Science student who is deeply passionate about transfor
 - 🌱 **Currently learning:** Advanced Big Data infrastructure (Apache Spark, Hive) and Cloud Deployments (AWS).
 - 📊 **My core focus:** Exploratory Data Analysis (EDA), Predictive Modeling, and designing intuitive Streamlit/Looker Studio dashboards.
 - ⚡ **Fun Fact:** I am meticulously systematic—I log my daily cash flow on a spreadsheet! When I'm away from my keyboard, you can find me diving deep into *Stranger Things* lore, geeking out over D&D rules, making DIY pipe-cleaner crafts, or collecting anything colored blue. 
+
+<br>
+
+### 🏆 Featured Projects
+Here are some of my proudest works. Click on the project names to view the repository!
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[EduMap JATIM Dashboard](#)** | 🏅 **Best Presentation Award.** Geospatial BI dashboard tracking Human Development Index (IPM) across 38 cities in East Java. | 🗺️ Python, Streamlit/Looker |
+| **[Gen Z Fintech Analytics](#)** | 🥉 **3rd Place Gelar Rasa.** EDA on 1,000+ respondents uncovering financial behaviors and anxiety score correlations. | 📊 Pandas, Seaborn |
+| **[Indonesian Culinary CNN](#)** | 🧠 Deep Learning model (EfficientNet-B3) achieving **87.65% accuracy** in classifying complex local food images. | 🤖 Python, Scikit-Learn/PyTorch |
+
+*(Note: Click the links above to explore the code and datasets!)*
 
 <br>
 
@@ -33,10 +49,27 @@ I am a 4th-semester Data Science student who is deeply passionate about transfor
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+<br>
+
+### 📈 GitHub Analytics
+
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=handikamsf&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777777" alt="Handika's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handikamsf&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=777777" alt="Top Languages" />
+</div>
+
+<br>
+
+### 👾 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/handikamsf/handikamsf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/handikamsf/handikamsf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/handikamsf/handikamsf/output/pacman-contribution-graph.svg">
+</picture>
 
 <br>
 
@@ -53,16 +86,6 @@ I am a 4th-semester Data Science student who is deeply passionate about transfor
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
-
-<br>
-
-### 📈 My GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/handikamsf/handikamsf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/handikamsf/handikamsf/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/handikamsf/handikamsf/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 <p align="center"><i>"Data is the new oil, but without refinement, it's just a puddle."</i></p>
