@@ -54,14 +54,16 @@ Here are some of my proudest works. Click on the project names to view the repos
 
 <br>
 
-### 📈 GitHub Analytics
+### 📈 GitHub Analytics & Trophies
 
 <p align="left">
   <a href="https://github.com/handikamsf">
-    <img src="https://github-readme-stats.vercel.app/api?username=handikamsf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Handika's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=handikamsf&theme=tokyonight&hide_border=true" height="165" alt="Handika's GitHub Streak" />
   </a>
+</p>
+<p align="left">
   <a href="https://github.com/handikamsf">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handikamsf&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=handikamsf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Handika's Trophies" />
   </a>
 </p>
 
