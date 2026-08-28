@@ -6,7 +6,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NpZHM1N2xnejF2ZTBraGUwbW53Y3NpNDVzNXFvMnNndjJxY3IxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fjgqYjVkzfQ9a/giphy.gif"  />
 
-I am a 4th-semester Data Science student who is deeply passionate about transforming raw, complex data into meaningful and actionable insights. I bridge the gap between heavy technical analysis (Machine Learning & Big Data) and practical business intelligence.
+I am a 5th-semester Data Science student who is deeply passionate about transforming raw, complex data into meaningful and actionable insights. I bridge the gap between heavy technical analysis (Machine Learning & Big Data) and practical business intelligence.
 
 - 🔭 **Currently working on:** Deep Learning architectures (CNNs) for image classification and interactive geospatial dashboards.
 - 🌱 **Currently learning:** Advanced Big Data infrastructure (Apache Spark, Hive) and Cloud Deployments (AWS).
